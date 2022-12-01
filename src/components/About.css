@@ -1,0 +1,9 @@
+.about{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background-image: url('https://images2.alphacoders.com/123/1239293.jpg');
+    opacity: .7;
+    color: aliceblue;
+    background-repeat: no-repeat;
+}
